@@ -6,5 +6,8 @@ der zu diesen Dateien auf anderen Servern verweist. Bei einem Download über die
 ## Start:
 Datei Masterarbeit_URP_2020.exe ausführen.
 
+## Walkthrough:
+Die Datei Masterarbeit_Walkthrough.mp4 beinhaltet einen kompletten Spielablauf.
 
-Masterarbeit von Riccardo Fuda im Fach Medieninformatik an der Universität zu Köln. Sommersemester 2021
+Riccardo Fuda | Universität zu Köln | SS 2021
+
